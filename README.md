@@ -1,6 +1,17 @@
 # Data-Project
 ## Project description
 This data project aims to answer some questions about the Data field in Morocco. This humble work is dedicated to students who are new to this field, I hope it may help you.
+
+``` bash
+.
+├── data scraping.ipynb
+├── README.md
+├── rsc
+│   ├── html.PNG
+│   └── linkedin.PNG
+└── scrapping_example.csv
+
+```
 ## Final Dashboard
 ![t](https://user-images.githubusercontent.com/95311883/215255897-fd592e7a-908c-47c9-bc53-c647081fe748.PNG)
 ## Data Analyst
